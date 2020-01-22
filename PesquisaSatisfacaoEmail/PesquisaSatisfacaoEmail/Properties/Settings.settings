@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PesquisaSatisfacaoEmail.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">srvaqabd</Value>
+    </Setting>
+    <Setting Name="Usuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">euroitlogin</Value>
+    </Setting>
+    <Setting Name="Senha" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin123#</Value>
+    </Setting>
+    <Setting Name="ArquivoLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\LogEmailPesquisaSatisfacaoEmail.txt</Value>
+    </Setting>
+    <Setting Name="Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.office365.com</Value>
+    </Setting>
+    <Setting Name="Porta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="NomeBanco" Type="System.String" Scope="User">
+      <Value Profile="(Default)">etools_lets</Value>
+    </Setting>
+    <Setting Name="LinkSistema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://sistema3.lets.com.br/eTools/simples/codigofonte/pesquisadesatisfacao/apresentacao/pesquisa-cliente.asp</Value>
+    </Setting>
+    <Setting Name="EmailHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sistema.euro@lets.com.br</Value>
+    </Setting>
+    <Setting Name="SenhaEmailHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Email@2019</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
